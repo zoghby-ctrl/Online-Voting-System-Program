@@ -33,10 +33,6 @@ A console-based application developed in C++ that allows users to securely cast 
         ```bash
         ./app
         ```
-## Screenshots
-https://github.com/zoghby-ctrl/Online-Voting-System-Program/blob/main/preview.png%20.lnk
-https://github.com/zoghby-ctrl/Online-Voting-System-Program/blob/main/preview.png%20(2).lnk
-
 ## Future Improvements
 * Implement a Graphical User Interface (GUI).
 * Add encryption for the `votes.txt` file for better security.
