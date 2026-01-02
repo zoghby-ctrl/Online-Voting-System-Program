@@ -43,3 +43,10 @@ A console-based application developed in C++ that allows users to securely cast 
 
 ## Author
 * **Zoghby** - [zoghby-ctrl](https://github.com/zoghby-ctrl)
+
+## Team
+* **Ahmed Eloghby** – Team Lead
+* **Abdelrahman Ali** – Team Member
+* **Nouran Hossam** – Team Member
+* **Ahmed Hassan** – Team Member
+* **Bassant Ibrahim** – Team Member
