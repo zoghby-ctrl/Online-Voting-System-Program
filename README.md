@@ -34,8 +34,8 @@ A console-based application developed in C++ that allows users to securely cast 
         ./app
         ```
 ## Screenshots
-![Program Preview](preview.png)
-![Program Preview](preview.png (2))
+https://github.com/zoghby-ctrl/Online-Voting-System-Program/blob/main/preview.png%20.lnk
+https://github.com/zoghby-ctrl/Online-Voting-System-Program/blob/main/preview.png%20(2).lnk
 
 ## Future Improvements
 * Implement a Graphical User Interface (GUI).
